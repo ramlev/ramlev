@@ -1,6 +1,7 @@
-PHP programmør siden late-90's
+Freelance PHP // Symfony // Drupal developer since the late 90's
 
-Ekspertiser: Drupal, Laravel, Symfony, Docker, Git, Composer, Varnish, SOLR, Elasticsearch, Memcached, Vuejs
+Works with: Drupal, Symfony, Docker, Git, Composer, Varnish, SOLR, Elasticsearch, Memcached, react, github CI  / CD.
 
-Telefon: 3156 2600
-E-Mail: hasse@ramlev.dk
+☎️ Phone: 3156 2600
+📮 Mail: hasse@ramlev.dk
+🌐 https://ramlev.dk // https://notes.ramlev.com
